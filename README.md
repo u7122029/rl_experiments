@@ -1,0 +1,2 @@
+# rl_experiments
+Dedicated for me to better understand Reinforcement Learning concepts detailed in [Zhiqing Xiao's RL book](https://github.com/ZhiqingXiao/rl-book). As a side effect, I can also submit suggestions to help improve the book based on my work here.
